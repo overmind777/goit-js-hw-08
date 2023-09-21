@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки дополнительных возможностей [обратись к документации](https://parceljs.org/).",
 
-  "homepage": "https://github.com/overmind777/goit-js-hw-08",
+  "homepage": "https://overmind777.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
